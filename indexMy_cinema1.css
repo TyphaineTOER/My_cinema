@@ -1,0 +1,19 @@
+body{
+
+background-image:url(images/SalleCinema.jpg);
+background-size: cover;
+}
+
+
+
+
+.Subscribe{
+    width: 800px;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+    top:200px;
+    left: 515px;
+
+}

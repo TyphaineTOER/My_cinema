@@ -1,0 +1,17 @@
+body {
+	background-image: url(images/07.jpg);
+	background-size: cover;
+}
+
+div#BarreDeR {
+	
+	margin: 0 auto;
+	margin-top: 285px;
+	width: 30%;
+	size: 19px;
+	text-align: center;
+}
+
+input:placeholder-shown {
+  border: 5px solid red;
+}
